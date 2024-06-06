@@ -16,7 +16,7 @@ Traditional algorithms for machine learning deep learning that do not use librar
 
 - GD/SGD
 
-![GD](https://github.com/neverwinHao/ML-DL/tree/main/img/GD.png)
+![GD](https://github.com/neverwinHao/ML-DL/blob/main/img/GD.png)
 
 - SVM
 
