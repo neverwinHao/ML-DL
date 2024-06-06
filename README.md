@@ -20,8 +20,8 @@ Traditional algorithms for machine learning deep learning that do not use librar
 
 - SVM
 
-![SVM](https://github.com/neverwinHao/ML-DL/tree/main/img/SVM.png)
+![SVM](https://github.com/neverwinHao/ML-DL/blob/main/img/SVM.png)
 
 - KMeans++
 
-![KMeans](https://github.com/neverwinHao/ML-DL/tree/main/img/KMeans.jpg)
+![KMeans](https://github.com/neverwinHao/ML-DL/blob/main/img/KMeans.jpg)
