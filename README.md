@@ -7,8 +7,8 @@ Traditional algorithms for machine learning deep learning that do not use librar
 - [x] GD/SGD/Close form Solution- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Close_GD_SGD) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 - [x] KMeans++- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/KMeans) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 - [x] LeNet- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/LeNet) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
-- [x] Naive Bayes- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Naive Bayes) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
-- [x] Selective search- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Selective search) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] Naive Bayes- [code](https://github.com/neverwinHao/ML-DL/tree/main/src) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] Selective search- [code](https://github.com/neverwinHao/ML-DL/tree/main/src) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 - [x] SVM- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/SVM) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 - [x] Gibbs- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Gibbs) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 
