@@ -3,14 +3,14 @@ Traditional algorithms for machine learning deep learning that do not use librar
 
 #  To-Do list
 
-- [x] BP - [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] GD/SGD/Close form Solution- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] KMeans++- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] LeNet- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] Naive Bayes- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] Selective search- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] SVM- [code](链接到代码的URL) | [report](链接到报告的URL)
-- [x] Gibbs- [code](链接到代码的URL) | [report](链接到报告的URL)
+- [x] BP - [code](https://github.com/neverwinHao/ML-DL/tree/main/src/BP) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] GD/SGD/Close form Solution- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Close_GD_SGD) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] KMeans++- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/KMeans) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] LeNet- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/LeNet) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] Naive Bayes- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Naive Bayes) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] Selective search- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Selective search) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] SVM- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/SVM) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
+- [x] Gibbs- [code](https://github.com/neverwinHao/ML-DL/tree/main/src/Gibbs) | [report](https://github.com/neverwinHao/ML-DL/tree/main/Report)
 
 # Visualization
 
