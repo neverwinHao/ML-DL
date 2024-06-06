@@ -16,12 +16,12 @@ Traditional algorithms for machine learning deep learning that do not use librar
 
 - GD/SGD
 
-![GD](F:\Users\liu'hao\Desktop\2\ML-DL\img\GD.png)
+![GD](https://github.com/neverwinHao/ML-DL/tree/main/img/GD.png)
 
 - SVM
 
-![SVM](F:\Users\liu'hao\Desktop\2\ML-DL\img\SVM.png)
+![SVM](https://github.com/neverwinHao/ML-DL/tree/main/img/SVM.png)
 
 - KMeans++
 
-![KMeans](F:\Users\liu'hao\Desktop\2\ML-DL\img\KMeans.jpg)
+![KMeans](https://github.com/neverwinHao/ML-DL/tree/main/img/KMeans.jpg)
