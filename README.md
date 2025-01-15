@@ -1,4 +1,5 @@
 # ML-DL
+不使用Pytorch实现机器学习/深度学习传统算法（包含了BP，GD/SGD/Close form Solution，KMeans++，LeNet，Naive Bayes，Selective search，SVM，Gibbs等常见的机器学习算法）
 Traditional algorithms for machine learning deep learning that do not use libraries such as Pytorch
 
 #  To-Do list
